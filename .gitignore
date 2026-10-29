@@ -1,0 +1,6 @@
+data/
+*.csv
+.venv/
+fraud-env/
+.ipynb_checkpoints/
+__pycache__/
